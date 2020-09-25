@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.EF", "AARP.EF\AARP.EF.csproj", "{11014A26-85C1-444C-85CB-AAAE632D6863}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.DTO", "AARP.DTO\AARP.DTO.csproj", "{5050DC3D-AD09-42A1-8229-E39BF3EE6ED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.Common", "AARP.Common\AARP.Common.csproj", "{071714B2-0D45-46B5-9E95-BB8B429113DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.UOW", "AARP.UOW\AARP.UOW.csproj", "{C6C39592-FDAA-42D1-A731-4BC2B85E9059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.Services", "AARP.Services\AARP.Services.csproj", "{10DC538C-5AF5-4472-85CD-A164CAAF59B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AARP.WEBStore", "AARP.WEBStore\AARP.WEBStore.csproj", "{D679A0C1-19CB-4BD0-B1E9-B9B8334D486B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11014A26-85C1-444C-85CB-AAAE632D6863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11014A26-85C1-444C-85CB-AAAE632D6863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11014A26-85C1-444C-85CB-AAAE632D6863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11014A26-85C1-444C-85CB-AAAE632D6863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5050DC3D-AD09-42A1-8229-E39BF3EE6ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5050DC3D-AD09-42A1-8229-E39BF3EE6ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5050DC3D-AD09-42A1-8229-E39BF3EE6ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5050DC3D-AD09-42A1-8229-E39BF3EE6ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071714B2-0D45-46B5-9E95-BB8B429113DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071714B2-0D45-46B5-9E95-BB8B429113DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071714B2-0D45-46B5-9E95-BB8B429113DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071714B2-0D45-46B5-9E95-BB8B429113DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6C39592-FDAA-42D1-A731-4BC2B85E9059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C39592-FDAA-42D1-A731-4BC2B85E9059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C39592-FDAA-42D1-A731-4BC2B85E9059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C39592-FDAA-42D1-A731-4BC2B85E9059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10DC538C-5AF5-4472-85CD-A164CAAF59B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DC538C-5AF5-4472-85CD-A164CAAF59B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DC538C-5AF5-4472-85CD-A164CAAF59B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DC538C-5AF5-4472-85CD-A164CAAF59B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D679A0C1-19CB-4BD0-B1E9-B9B8334D486B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D679A0C1-19CB-4BD0-B1E9-B9B8334D486B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D679A0C1-19CB-4BD0-B1E9-B9B8334D486B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D679A0C1-19CB-4BD0-B1E9-B9B8334D486B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2190FBD2-5A86-4F54-BA16-151BBC4743B9}
+	EndGlobalSection
+EndGlobal
